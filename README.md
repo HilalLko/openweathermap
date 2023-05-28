@@ -4,7 +4,7 @@
 
 ``` bash
 # clone the repo
-$ git clone git@bitbucket.org:nikhilgupta06july/share-express-web.git get-weather
+$ git clone git@bitbucket.org:HilalLko/openweathermap.git get-weather
 
 # go into app's directory
 $ cd get-weather
