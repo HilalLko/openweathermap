@@ -49,6 +49,9 @@ To make it look like this:
 # generate laravel APP_KEY
 $ php artisan key:generate
 
+# run database migration and seed
+$ php artisan migrate:refresh --seed
+
 # generate mixing
 $ npm run dev
 ```
