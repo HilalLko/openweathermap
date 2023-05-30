@@ -51,16 +51,13 @@ $ php artisan key:generate
 
 # run database migration and seed
 $ php artisan migrate:refresh --seed
-
-# generate mixing
-$ npm run dev
 ```
 
-### Next step
+### Next step (Add Weather Map API Keys)
 
 ```
 Add API key and desired language in `.env`
-```
+
 OPENWAETHER_API_KEY=
 OPENWAETHER_API_LANG=en
 ```
